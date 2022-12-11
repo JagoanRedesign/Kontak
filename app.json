@@ -16,7 +16,7 @@
     },
     "TG_BOT_TOKEN": {
       "description": "Your bot token, as a string.",
-      "value": ""
+      "value": "5550434735:AAEJ7lcyTs8ApsQs4wmWCczwBzQVC95ieuw"
     },
     "PASSWORD": {
       "description": "Password for login",
@@ -32,15 +32,15 @@
     },
     "OWNER_ID": {
       "description": "Get your telegram id from rose.",
-      "value": ""
+      "value": "5166575484"
     },
     "API_ID": {
       "description": "Get this value from https://my.telegram.org",
-      "value": ""
+      "value": "14672956"
     },
     "API_HASH": {
       "description": "Get this value from https://my.telegram.org",
-      "value": ""
+      "value": "115e8242ea0423893160bb61a9e05eab"
     }
   },
   "addons": [
